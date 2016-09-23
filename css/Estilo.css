@@ -1,0 +1,127 @@
+
+ body{
+ 	background:url(../Imagenes/Fondo.png) no-repeat fixed center;
+ 	 -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+	background-size: cover;
+	font-size:14px;
+	font-family:Arial, Helvetica, sans-serif;
+	text-align:justify;
+	}
+	
+ .div{
+ 	margin:30px 0px 0px 270px;
+	}
+	
+	
+	
+  
+ header{
+ 		
+		width: 900px;
+		height: 200px;
+		background:url(../Imagenes/logoUNAD2.png) no-repeat;		
+		background-color:#FFFFFF;	 
+		border-radius: 28px 28px 0px 0px;        
+ 		-webkit-box-shadow: 21px -23px 41px -13px rgba(18,79,120,1);
+		-moz-box-shadow: 21px -23px 41px -13px rgba(28,89,100,10);
+		box-shadow: 21px -23px 41px -13px rgba(28,89,100,10); 
+		border-style: solid;
+    	border-color: #FFFFFF; 
+	}
+	
+ h1{
+ 	 text-align:right;
+	 margin:155px 0px 0px 0px; 
+	 color:#F2B80D;
+ 	}
+	
+ h4{
+ 	 text-align:right;
+	 margin:10px 10px 0px 0px; 
+	 color:#006688;
+ 	}
+	
+ nav{
+		width: 900px;
+		height: 45px;
+		border-radius: 0px 0px 28px 28px;
+		background-color: #006688;
+		border-style: solid;
+    	border-color: #FFFFFF;
+		
+	
+	}
+
+ ul{
+		margin: auto;
+		padding-top: 0px;
+		position: relative;
+		right:-70%;
+       
+		
+	}
+
+ li{
+		float: left;                            
+		list-style-type: none;                  
+		padding: 10px;                          
+		background: #006680;                    
+		margin: 3px;
+		border-radius: 10px;                    
+		box-shadow: 0 0 10px white inset;       
+	    min-width: 100px;    
+		position: relative; 
+        right: 50%;                   
+	}
+	
+ 
+
+ .menu:link{
+ 	color: white;
+	text-decoration: none;
+	text-align:center;
+	} 
+ .menu:visited{
+ 	color: white;
+	text-decoration:
+	none;
+	}
+ .menu:hover{
+ 	color: #ff5900;
+	text-decoration:none;
+	text-shadow: 0 0 13px white;
+	}  
+ .menu:active{
+ 	color: #F2B80D;
+	text-decoration:none;
+	}
+
+section{
+    	width: 900px;          
+    	background: #FFFFFF;   
+    	height: 100%;         
+    	float: left;          
+		margin-left:275px;
+		margin-top:20px;
+    	border-radius: 10px;
+    	border-style: solid;
+    	border-color: #FFFFFF;
+		
+    	    }
+	
+
+
+ footer{
+
+	width: 900px;
+	height: 60px;
+	background: #F2B80D;
+	margin-left:275px;
+	float: left;
+	margin-top: 10px;
+	border-radius: 10px;
+	border-style: solid;
+   	border-color: #FFFFFF;
+}
